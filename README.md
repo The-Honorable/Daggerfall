@@ -1,6 +1,6 @@
-Backstory:
+# Backstory:
 
-tldr; 
+## Short Story
 
 Draconis, an orphan with a low affinity for spell casting but great potential with the sword, becomes an adventurer at age ten and goes on a quest to kill some goblins. The quest goes horribly wrong when five goblins turns into dozens. On his deathbead, a great red dragon saves him and brings him back to his den high in the mountains of Skyrim. Recooperating, Draconis pledges his loyalty to the great dragon and to repay his debt for saving his life. The dragon, not looking for a pet, reluctantly allows the young boy to stay until he has fully recovered. Draconis, fully recovered now and not willing to leave, hunts to bring the dragon food, and cleans the large cave and surrounding plateau for the dragon. Eventually the dragon warms up to the boy. After several months of seeing the boy train, he asks the boy if he wishes to learn the ways of the dragon and become a fighter with no equal: a Dragon knight. Eager to learn and repay his debt and become stronger to server the great red dragon, Draconis agrees. 
 
@@ -24,6 +24,22 @@ Draconis became quite content with his new life. He was sure this is how he woul
 
 
 
-Full Story:
+## Expanded Story:
 
-WIP - will post when it's done
+Not a natural born spell caster, Draconis began training in the way of the sword from the moment he could hold one. It turned out, he had great affinity for the blade. Fascinated in being a knight one day, he trained every available minute between his job as a local stable boy for the village stalls. An orphan, he himself had a spot within the stalls he claimed as his own. When he would practice with his wooden sword, the village citizens would often laugh and mock his desire to be anything greater than a simple stable boy. But he had a burning desire, and upon reaching the age of 10 he signed up to be an adventurer at the fighters guild. 
+
+Unsure of the boy's capability, he was assigned a small goblin subjugation task. "We've gotten reports of a few goblins assulting travelers. Go to the swamps to the east and slay the goblins. The reports indicate there are around five gobling". With this, his adventure to becoming a knight had begin. Having saved up all the money he had made over the years working at the stables and doing odd jobs in the village, he went right to the blacksmith to purchase a sword and some basic armor. Donning his newly acquired iron sword and leather body armor, he set off to complete his first guild task.
+
+It was a quick trip to the swamps. He set out just as the sun rose, and arrived before it even hit its peak. In all sense of the word, he was ready. Gripping his sword with the strength he had built up over the years. Checking for tracks, he found a single goblin track leading off the main road. He followed, and found a small cave with a flicker of light. This was it, he scouted around the area and found a group of bushes he hid in. It wasn't long until he saw movement at the entrance. He thought to himself, "Only five goblins? This won't take long." 
+
+Drawing his sword, more of a short sword due to his size and age, he lept from the bush. Three goblins emerged from the cave, he suspected two more remain in the cave. He could deal with them afterwards. With a quick swing of his sword, the lead goblin's head fell to the ground. The other two goblins shook with fear, falling to the ground fumbling to grab their weapons. Draconis spun around and lunged towards the second goblin, plunging his sword through its chest. The third goblin, a little smaller than most goblins, let out a screech that caused Draconis to cover his ears in pain. He had never heard such a screech, surely the small goblin was calling for the other two reinforcements. 
+
+Stumbling, looking for his short sword, Draconis realized his hearing was impaired now. He felt the burn of the blood running down his cheeks from both ears. Mustering all of his strength, he ran towards the screeching goblin and thrusted his sword right through the its throat. On one knee, trying to recover his breath, he turn towards the cave which the golbins first emerged. Seeing not just one or two goblins heading his way, but at first sight at least twenty or thirty.
+
+Realizing how unprepared and outmatched he was, using his sword as a leverage, he got to his feet and began backtracking to the main road. He had to find the road and head back. Maybe a passing adventurer or carriage could rescue him. Feeling his lungs in pain as he run, the cave slightly out of view, he felt a sharp pain in his leg. The next thing he knew he was face first on the ground. A goblin archer, more agile than Draconis, was in a tree with a good vantage. His mobility had been reduced. This was the end. He had no way to escape. The main road was a good mile away. He would never make it. Rolling over, wishing he was able to cast healing magic, he reached for his sword. But if he was going to die, he was going to take as many goblins with him. He broke the arrow off, leaving the arrow head in his calf, he stood up. Holding his sword bracing himself, a second arrow whizz by his cheek. The shock sending his backwards, his leg giving out he fell back to the ground. 
+
+The horde of goblins rushing him, he closed his eyes. Expecting to be rushed any moment, instead he heard a great roar and felt immense heat. Slowly opening his eyes, he saw the whole environment in front of him engulfed in a great blaze. He stared up as he saw great wings, soaring through the sky. He had heard of great beings that had power over the sky and could slay an entire army in seconds, but he never expected to meet one. Seeing the goblins disintegrate, he wondered in he was next. Did the dragon simply not see him? Was the dragon saving him for a snack? Only the worst thoughts flashed through his head. 
+
+Landing only a few meters away, the great red dragon standing many men tall had an intimidating presence. Draconis could barely breathe. Trembling in fear, he couldn't even hold his sword up to fend off the dragon. Through sheer willpower, he swung his sword and threw it at the dragon. Expecting some damage, it bounced off the dragon's scales. The dragon curious as to whether or not he was suppose to feel damage by that, moved in close. His great jaw, just inches away, one of his teeth as big as draconis' whole body. The dragon exhaled heavily, the force and shock knocking Draconis unconcious.
+
+#### not done yet, rest is wip
