@@ -1,5 +1,6 @@
 # The Build
 # Class: Dragon Knight
+<img src="https://i.imgur.com/evl0pRp.png" />
 
 ## Attributes
 
@@ -50,4 +51,3 @@
 - Forbid missle weapons
 
 
-<img src="https://i.imgur.com/evl0pRp.png" />
