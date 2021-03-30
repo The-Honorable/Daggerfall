@@ -1,5 +1,18 @@
 # The Build
-hp/level = 25
+# Class: Dragon Knight
+
+## Attributes
+
+- STR: 60
+- INT: 40
+- AGI: 70
+- END: 60
+- PER: 40
+- SPD: 50
+- LUC: 40
+
+
+## Skills
 
 ### Primary:
 - Longblade
@@ -25,7 +38,7 @@ hp/level = 25
 - Expertise in long blade
 - Reistance to fire
 - Resistance to shock
-- 3x INT into spell points (mana)
+- 2x INT into spell points (mana)
 
 ### Special disadv
 - Inability to regen spell points (mana)
