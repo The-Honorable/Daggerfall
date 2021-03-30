@@ -1,2 +1,2 @@
 
-<img src="https://imgur.com/a/NTGKzUS" /?
+<img src="https://imgur.com/a/NTGKzUS" />
