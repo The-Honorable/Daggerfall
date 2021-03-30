@@ -1,5 +1,5 @@
 # The Build
-### Build and gameplay streamed live at https://www.twitch.tv/thehonorabie
+### Build and gameplay streamed live at [Twitch.tv](https://www.twitch.tv/thehonorabie)
 
 # Class: Dragon Knight
 ##### For backstory see: [here](https://github.com/The-Honorable/Daggerfall/blob/main/README.md)
