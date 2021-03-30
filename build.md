@@ -1,5 +1,6 @@
 # The Build
 # Class: Dragon Knight
+##### For backstory see: https://github.com/The-Honorable/Daggerfall/blob/main/README.md 
 <img src="https://i.imgur.com/evl0pRp.png" />
 
 ## Attributes
