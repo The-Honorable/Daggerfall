@@ -35,7 +35,7 @@
 - Thaumaturgy
 
 ### Special advantages
-- Spell Absorbption
+- Spell Absorbption (spell dmg refills mana)
 - Bonus to hit humanoid
 - Expertise in long blade
 - Reistance to fire
