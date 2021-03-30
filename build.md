@@ -33,7 +33,7 @@
 - Alteration
 - Thaumaturgy
 
-### Special adv
+### Special advantages
 - Spell Absorbption
 - Bonus to hit humanoid
 - Expertise in long blade
@@ -41,7 +41,7 @@
 - Resistance to shock
 - 2x INT into spell points (mana)
 
-### Special disadv
+### Special disadvantages
 - Inability to regen spell points (mana)
 - Lower magic ability in daylight (darkness powered)
 - Critical weakness to disease
